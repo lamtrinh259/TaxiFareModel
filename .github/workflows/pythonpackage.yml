@@ -81,11 +81,7 @@ jobs:
 
 # CD code with gcloud, doesn't work yet
 # Need 4 things: GCP project ID, app_name, email, and credentials in Github secrets
-    # deploy:
-      # GCP_PROJECT_ID = le-wagon-final-project
-      # GCP_APP_NAME = taxi-fare-model
-      # GCP_EMAIL = lam.bao.trinh@gmail.com
-      # GCP_CREDENTIALS =
+    deploy:
         name: Setup Gcloud Account
         runs-on: ubuntu-latest
         env:
