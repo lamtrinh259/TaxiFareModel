@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lamtrinh259/code/lamtrinh259/TaxiFareModel/mlruns/1/aa56f76479f046c4846b1beeac118f60/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: aa56f76479f046c4846b1beeac118f60
+run_uuid: aa56f76479f046c4846b1beeac118f60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1645504278098
+status: 1
+tags: []
+user_id: unknown
